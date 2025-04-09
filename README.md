@@ -21,7 +21,7 @@ Making **[Neotoc](https://neotoc.vercel.app/)**—a fresh take on table of conte
 
 [![Neotoc playground gif](https://raw.githubusercontent.com/ashutoshbw/neotoc/refs/heads/main/.github/assets/neotoc-demo.gif)](https://codepen.io/ashutoshbw/pen/Jojvvbp)
 
-## 📫 Follow or Connect with me on
+## 📫 Follow or connect with me on
 
 - **[x(Twitter)](https://x.com/ashutoshbw)**
 - **[LinkedIn](https://www.linkedin.com/in/ashutosh-biswas)**
