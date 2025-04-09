@@ -2,15 +2,26 @@
 
 My name is Ashutosh Biswas, a self-taught front-end developer from Chuadanga, Bangladesh.
 
-## 🔭 Cool stuff I'm working on
+## ⚡ Technologies
 
-Making **[Neotoc](https://neotoc.vercel.app/)**—a fresh take on table of contents UI—the best it can be. You should check it out if you build docs or technical blogs! Click the image below to **`/e(xperience|xplore|dit)/`** it in CodePen!
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=yellow)
+
+## 🛠️ Cool stuff I'm working on
+
+Making **[Neotoc](https://neotoc.vercel.app/)**—a fresh take on table of contents UI—the best it can be. You should check it out if you build documentation websites or technical blogs! Click [here](https://codepen.io/ashutoshbw/pen/Jojvvbp) or the GIF below see/edit it in CodePen.
 
 [![Neotoc playground gif](https://raw.githubusercontent.com/ashutoshbw/neotoc/refs/heads/main/.github/assets/neotoc-demo.gif)](https://codepen.io/ashutoshbw/pen/Jojvvbp)
 
-Please give [Neotoc](https://github.com/ashutoshbw/neotoc) a star if you find it interesting or useful!
-
-## 📫 How to reach me
+## 📫 Follow or Connect with me on
 
 - **[x(Twitter)](https://x.com/ashutoshbw)**
 - **[LinkedIn](https://www.linkedin.com/in/ashutosh-biswas)**
