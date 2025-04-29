@@ -17,9 +17,7 @@ My name is Ashutosh Biswas, a self-taught front-end developer from Chuadanga, Ba
 
 ## 🛠️ Cool stuff I'm working on
 
-Making **[Neotoc](https://neotoc.vercel.app/)**—a fresh take on table of contents UI—the best it can be. You should check it out if you build documentation websites or technical blogs! Click [here](https://codepen.io/ashutoshbw/pen/Jojvvbp) or the GIF below see/edit it in CodePen.
-
-[![Neotoc playground gif](https://raw.githubusercontent.com/ashutoshbw/neotoc/refs/heads/main/.github/assets/neotoc-demo.gif)](https://codepen.io/ashutoshbw/pen/Jojvvbp)
+Making **[Neotoc](https://neotoc.vercel.app/)**—a fresh take on table of contents UI—the best it can be. You should check it out if you build documentation websites or technical blogs!
 
 ## 📫 Follow or connect with me on
 
